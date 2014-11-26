@@ -1,0 +1,4 @@
+configuration
+=============
+
+kinds of configurations
